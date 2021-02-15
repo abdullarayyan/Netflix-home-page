@@ -19,9 +19,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a.rayyan\Documents\UserPilot\NITFLIX_LANDING" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\a.rayyan\Documents\UserPilot\NITFLIX_LANDING\img" />
     </key>
@@ -35,7 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613292025208</updated>
       <workItem from="1613292026529" duration="13994000" />
-      <workItem from="1613309900751" duration="15590000" />
+      <workItem from="1613309900751" duration="16381000" />
     </task>
     <servers />
   </component>
