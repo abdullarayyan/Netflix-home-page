@@ -35,11 +35,17 @@
       <option name="presentableId" value="Default" />
       <updated>1613292025208</updated>
       <workItem from="1613292026529" duration="13994000" />
-      <workItem from="1613309900751" duration="15179000" />
+      <workItem from="1613309900751" duration="15590000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613389361524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1613389361524" />
   </component>
 </project>
